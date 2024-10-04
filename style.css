@@ -1,0 +1,122 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    margin-top: 29px;
+}
+li{
+    display: inline;
+    padding: 22px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+.sign-up {
+    margin-top: 7px;
+    margin-left: -15px;
+}
+.sign-up.sign{
+    width: 10px;
+    margin-left: 11px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+
+}
+.sign-up.sign:hover{
+    background-color: blue;
+    color: #fff;
+    transition: o.3s ease-in-out;
+
+}
+.sign-up button{
+    padding: 12px;
+    width: 106px;
+    margin-left: 11px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 10px;
+}
+.sign-up button:hover{
+    background-color: white;
+    color: black;
+    transition: 0.3s ease ease-in-out;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+.heading{
+    margin-top: 185px;
+    margin-left: 116px;
+}
+.picture{
+    margin-top: 88px;
+    margin-right:  57px;
+}
+.heading h1{
+    font-size: 50px
+}
+p{
+    font-size: 20px;
+    opacity: 0.5;
+}
+.heading h2{
+    font-size: 20px;
+    opacity: 0.8;
+}
+.button{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+#btn1{
+    height: 45px;
+    width: 170px;
+    border-radius: 7px;
+    background-color: blue;
+    color: white;
+
+}
+#free{
+    background-color:white;
+    color: black;
+}
+.buttons button:hover{
+    background-color: white;
+    color: black;
+    transition: 0.4s ease-in-out;
+}
+#free:hover{
+    background-color: blue;
+    color: white;
+    transition: 0.4s ease-in-out;
+}
+.logo-container{
+    display: inline;
+    justify-content: center;
+}
+.logo-container ul{
+    margin-top: 84px;
+    font-size: 23px;
+    text-align: center;
+}
+    
+    
+
+
+
+
+
+
+
+    
+
+ 
+
